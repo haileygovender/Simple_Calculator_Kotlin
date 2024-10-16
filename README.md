@@ -12,7 +12,7 @@ A calculator to add, subtract, divide and multiply. A simple UI and code concept
 
 To install, follow these steps:
 
-1. Download from [Download Page]([https://your-download-link.com](https://github.com/haileygovender/Simple_Calculator_Kotlin)).
+1. Download from [Download Page](https://your-download-link.com](https://github.com/haileygovender/Simple_Calculator_Kotlin).
 2. Open Android studio
 3. Locate the file to open the project file
 
